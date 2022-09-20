@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Noidkoko
+- 👀 I’m interested in making cool website and video games stuffs like that
+- 🌱 I’m currently learning PHP/Symfony & Solidity
+- 📫 Contact me on discord ;)
